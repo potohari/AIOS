@@ -23,6 +23,7 @@ See context/priorities.md. Review at the start of every quarter or sprint.
 - audit          "audit", weekly Four-Cs score
 - level-up       "what should I automate next?"
 - skill-builder  creating or improving any skill
+- crm-section    CRM work: "next section", "brainstorm section", "continue the CRM" (25+ questions w/ 3 options + rec, then build)
 (add one line per new skill, with the phrases that should trigger it)
 
 ## Where things live
