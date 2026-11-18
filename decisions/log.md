@@ -8,3 +8,4 @@ Dated record of decisions made together. Newest at the bottom.
 - 2026-11-18: Owner is Isa, a Level 4 AI and Automation Practitioner apprentice. Onboarding adapted for an apprentice, not a business owner.
 - 2026-11-18: Main apprenticeship project switched to Majestic Meat CRM (Route A); HACCP paused pending tutor meeting. Mentor = Admin. Context files written from Isa's pasted Project chat.
 - 2026-11-18: AIOS pushed to private repo potohari/AIOS. Personal cloud environment 'AIOS' created for it. Stitch (Google UI design MCP) requested; key must go in env Network secrets (X-Goog-Api-Key), never chat. First pasted key was exposed in chat -> rotate.
+- 2026-11-18: Stitch MCP added at user scope on Isa's request (key kept out of repo). Connected. Does not persist to new cloud sessions; key was again shared in chat, rotate when convenient.
