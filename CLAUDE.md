@@ -48,3 +48,4 @@ See context/priorities.md. Review at the start of every quarter or sprint.
 5. Log important decisions in decisions/log.md with the date.
 6. Load context files only when the task needs them (save tokens).
 7. Never delete; move old material to archives/.
+8. Cloud-first: Isa opens the AIOS from many PCs via claude.ai/code (AIOS repo + AIOS environment). Each session starts fresh from GitHub, so commit and push to main at the end of every piece of work. Isa said "yes always push" on 2026-11-22.
