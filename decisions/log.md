@@ -14,3 +14,4 @@ Dated record of decisions made together. Newest at the bottom.
 - 2026-11-22: Exposed Stitch keys revoked by Isa. Stitch tested working in cloud session (list_projects OK).
 - 2026-11-22: Tutor and employer informed about the CRM project.
 - 2026-11-22: Isa said "always push" for the CRM screens branch too. First Stitch screen: Admin dashboard (Isa's choice).
+- 2026-11-22: CRM v1 screen drafts made in Stitch (dashboard desktop r2, customer page, salesman quick-log, email approvals). Dashboard phone + quiet list generated but not retrievable via MCP. Review notes in projects/crm/designs/v1/REVIEW.md.
