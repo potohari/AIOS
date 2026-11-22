@@ -18,7 +18,7 @@ Gmail, Google Calendar and Google Drive connectors are attached to the owner's C
 ## Other tools
 | Tool | Purpose | Route | Auth | Status | Last tested |
 |---|---|---|---|---|---|
-| Google Stitch | AI UI design for Majestic Meat CRM v1 screens | MCP, project `.mcp.json` (https://stitch.googleapis.com/mcp, HTTP, no key in file) | X-Goog-Api-Key header, injected by AIOS env Network secret (host stitch.googleapis.com). Key must NOT be in repo. | Blocked: env had NO network secret saved, so calls return "missing authentication". request_credential cannot save X-Goog-Api-Key headers. Fix: Isa adds it manually in env settings, then fresh session. | 2026-11-18 |
+| Google Stitch | AI UI design: CRM v1 screen mockups | MCP via Stitch connector on Isa's Claude account (mcp__stitch__*) | Connector auth. Env has no Stitch network secret. Old keys pasted in chat revoked 2026-11-22. Never put a key in repo/chat. | Connected: list_projects OK, no auth error | 2026-11-22 |
 
 ## Phrase mapping
 What the owner means by common words (fill in per tool after wiring it): "message" = ?, "task" = ?, "comment" = ?
