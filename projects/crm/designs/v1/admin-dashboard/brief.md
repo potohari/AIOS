@@ -15,4 +15,4 @@ Notes raised (Claude): wider audience increases monitoring/visibility concerns f
 Isa accepted the recommended set ("yeah fine go ahead"): 1 quiet customers this week, 2 money at risk, 3 lost deals + reasons, 6 sales trend month vs last, 7 product demand trends. Overdue follow-ups and email approvals left for Admin's own screens.
 
 ## Q4 Style / colours / logo
-Not answered yet; round 1 uses a neutral placeholder style (deep red accent, dark navy).
+Isa sent the Majestic Meat logo (gold laurel wreath, gradient #755d39 to #e2cf9d; saved projects/crm/brand/logo-laurel.png). Round 2: navy + gold, red only for warnings. Names: placeholders (Claude recommendation A; Isa did not object).
