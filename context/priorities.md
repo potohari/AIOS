@@ -8,7 +8,8 @@ Detailed plan, criteria and drafts live in the apprenticeship Claude Project. Th
 3. **HACCP system:** paused. Decide with tutor at next meeting (finish / pause / drop; may still count as supporting evidence).
 
 ## Open to-dos
-- [ ] Tell tutor: new project, mentor is now Admin, HACCP question, early-build flag, confirm using Claude is OK (course prompt was written for ChatGPT).
+- [x] Tutor and employer know about the CRM project (Isa, 2026-11-22).
+- [ ] Check with tutor if not already covered: mentor is now Admin, HACCP decision, OK to use Claude (course prompt was written for ChatGPT).
 - [ ] Send Admin email; brief the salesmen; record their reactions.
 - [ ] Take baseline from SYSDEM export (quiet/lost customers, admin time chasing).
 - [ ] Run the 18-item pre-automation check before building anything.
