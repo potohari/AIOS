@@ -11,3 +11,4 @@ Dated record of decisions made together. Newest at the bottom.
 - 2026-11-18: Stitch MCP added at user scope on Isa's request (key kept out of repo). Connected. Does not persist to new cloud sessions; key was again shared in chat, rotate when convenient.
 - 2026-11-18: CRM working method agreed: split into sections; 25+ brainstorm questions per section (3 options + recommendation each), then build that section. Saved as crm-section skill. Section 1 = scope and approach (build vs buy first, as the brief requires a genuine comparison).
 - 2026-11-22: AIOS runs cloud-first (claude.ai/code + GitHub). Isa said "yes always push": commit and push at the end of every piece of work.
+- 2026-11-22: Exposed Stitch keys revoked by Isa. Stitch tested working in cloud session (list_projects OK).

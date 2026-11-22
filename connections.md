@@ -18,7 +18,7 @@ Gmail, Google Calendar and Google Drive connectors are attached to the owner's C
 ## Other tools
 | Tool | Purpose | Route | Auth | Status | Last tested |
 |---|---|---|---|---|---|
-| Google Stitch | AI UI design (purpose: ask Isa) | MCP, https://stitch.googleapis.com/mcp | X-Goog-Api-Key header. Key must NOT be in repo. Durable home: AIOS env Network secrets. | Connected (health check passed) in one session only, user-scope config in an ephemeral container | 2026-11-18 |
+| Google Stitch | AI UI design: CRM screen mockups (projects/crm/stitch-design-prompt.md) | MCP, https://stitch.googleapis.com/mcp | X-Goog-Api-Key header via AIOS environment, never in repo/chat. Old keys pasted in chat were revoked 2026-11-22. | Connected: list_projects call succeeded (no projects yet) | 2026-11-22 |
 
 ## Phrase mapping
 What the owner means by common words (fill in per tool after wiring it): "message" = ?, "task" = ?, "comment" = ?
