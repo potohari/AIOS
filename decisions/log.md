@@ -13,3 +13,4 @@ Dated record of decisions made together. Newest at the bottom.
 - 2026-11-22: AIOS runs cloud-first (claude.ai/code + GitHub). Isa said "yes always push": commit and push at the end of every piece of work.
 - 2026-11-22: Exposed Stitch keys revoked by Isa. Stitch tested working in cloud session (list_projects OK).
 - 2026-11-22: Tutor and employer informed about the CRM project.
+- 2026-11-22: Isa said "always push" for the CRM screens branch too. First Stitch screen: Admin dashboard (Isa's choice).
