@@ -8,6 +8,9 @@ Status: brainstorming
 4. Customers in v1 - A ~50 active / B all ~300 trade / C trade + online - ★B - 
 5. How data gets in - A manual entry / B weekly SYSDEM export + quick-log / C live SYSDEM link - ★B - 
 
+## Notes from discussion
+- 2026-11-22: Isa works from many different PCs. Requirement: CRM must be cloud/web-based (any PC or phone, nothing installed). Dev work can also be cloud (Claude Code on the web + GitHub); VS Code at home PC is optional. Option B (custom on Supabase + Cloudflare, same as HACCP) now a strong candidate - still compare against off-the-shelf.
+
 ## Decisions
 ## Open questions
 ## Build notes
