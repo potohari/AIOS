@@ -5,7 +5,7 @@ Method: .claude/skills/crm-section. 25+ brainstorm questions per section, then b
 | # | Section | What it covers | Status |
 |---|---|---|---|
 | 1 | Scope and approach | v1 goal, users, customers in scope, build vs buy vs hybrid, tech stack, budget, timeline | decided (26 Qs, 24 Nov) |
-| 2 | Data foundations | customer/contact/product/salesman data model, SYSDEM import, cleaning, baseline | not started |
+| 2 | Data foundations | customer/contact/product/salesman data model, SYSDEM import, cleaning, baseline | brainstorming |
 | 3 | Customer records and activity | customer page, timeline, calls/WhatsApp notes, prices offered, lost deals + reasons | not started |
 | 4 | Salesman quick-log | mobile capture in seconds, adoption, what salesmen get back | not started |
 | 5 | Admin dashboard and alerts | quiet customers, overdue follow-ups, lost-deal reasons | not started |

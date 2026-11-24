@@ -62,7 +62,7 @@ Status: decided (Isa to confirm summary) - 26 questions answered 2026-11-24
 - HACCP: paused, decide with tutor.
 
 ## Open questions
-- Voice notes: how to capture safely (in-app recording vs WhatsApp) and whether AI transcribes/translates them - decide in Section 4 (quick-log).
+- Voice notes: how to capture safely (in-app recording vs WhatsApp) - decide in Section 4 (quick-log).
 - For assessed write-up: describe non-loggers as an adoption barrier (time, habit, trust), not ability. [ISA TO WRITE]
 - Social media / wider marketing automation: future idea, not v1 (added to expansions.md).
 
