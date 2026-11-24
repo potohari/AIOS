@@ -13,3 +13,9 @@ Dated record of decisions made together. Newest at the bottom.
 - 2026-11-22: AIOS runs cloud-first (claude.ai/code + GitHub). Isa said "yes always push": commit and push at the end of every piece of work.
 - 2026-11-22: Exposed Stitch keys revoked by Isa. Stitch tested working in cloud session (list_projects OK).
 - 2026-11-22: Tutor and employer informed about the CRM project.
+- 2026-11-22: Isa said "always push" for the CRM screens branch too. First Stitch screen: Admin dashboard (Isa's choice).
+- 2026-11-22: CRM v1 screen drafts made in Stitch (dashboard desktop r2, customer page, salesman quick-log, email approvals). Dashboard phone + quiet list generated but not retrievable via MCP. Review notes in projects/crm/designs/v1/REVIEW.md.
+- 2026-11-24: CRM Section 1 (scope and approach) brainstorm done: 26 questions answered by Isa via interactive questions. Key: custom build on Supabase + Cloudflare, pilot Admin + 1-2 salesmen for 4 weeks, all trade customers, Claude API with pseudonymised data. Open: email automation in v1 vs online-shop phase.
+- 2026-11-24: Email automation stays in v1, small, for trade customers with email + consent (prove it works, gain experience). Voice notes may be a main logging method because salesmen struggle with tech/English at times.
+- 2026-11-24: Voice notes from salesmen are transcribed into logs by a human (Isa/Admin), not AI - poor English and Potohari would not be understood by AI. Section 2 (data foundations) started.
+- 2026-11-24: CRM Section 2 (data foundations) brainstorm done: 25 questions. Key: 2-year SYSDEM CSV import + weekly upload page, CRM match table for messy codes, seasonal 'gone quiet' rule from history, minimum contact data + consent record, fake data for building.

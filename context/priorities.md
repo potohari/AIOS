@@ -8,6 +8,8 @@ Detailed plan, criteria and drafts live in the apprenticeship Claude Project. Th
 3. **HACCP system:** paused. Decide with tutor at next meeting (finish / pause / drop; may still count as supporting evidence).
 
 ## Open to-dos
+- [ ] This week: send Claude a pseudonymised ~50-row SYSDEM CSV sample (for CRM Section 2).
+- [ ] Ask Admin to log one normal week of time spent chasing customers (baseline).
 - [x] Tutor and employer know about the CRM project (Isa, 2026-11-22).
 - [ ] Check with tutor if not already covered: mentor is now Admin, HACCP decision, OK to use Claude (course prompt was written for ChatGPT).
 - [ ] Send Admin email; brief the salesmen; record their reactions.
