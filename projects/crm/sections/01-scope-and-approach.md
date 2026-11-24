@@ -57,11 +57,12 @@ Status: decided (Isa to confirm summary) - 26 questions answered 2026-11-24
 - People: show drafts to 1-2 salesmen before building; train 1-to-1 + follow-up calls; fallbacks for non-loggers (paper sheet, voice note).
 - Success: baseline now + 3 measures (quiet customers won back, % calls logged, Admin chasing time).
 - Scope: online shop after trade v2. If short of time, cut AI insights first; email automation is a priority.
+- Email automation (resolved 24 Nov): Isa first said "option B ... if any trade customers do like email offers we can work around that down the line", then "actually lets do that to prove the automation works + gain some experience" -> small email automation in v1 for trade customers who have an email address and consent; scales up in the online-shop phase.
+- Salesmen and tech (24 Nov): Isa: "these guys arent the best with tech or english at times so voice notes might be a bigger use" -> voice notes may be a MAIN way to log, not just a fallback. Accessibility/equality point (language, digital skills); design the quick-log voice-first.
 - HACCP: paused, decide with tutor.
 
 ## Open questions
-- Q24 vs Q26 tension: email automation is the priority mainly for the ONLINE SHOP, but the online shop comes after trade v2. Trade customers are mostly phone/WhatsApp with few emails. Decide: (a) keep emails in v1 for trade customers with email + consent, or (b) move email automation to the online-shop phase.
-- Voice-note fallback: Isa typing logs for salesmen = extra workload + accuracy risk; voice notes with customer details on WhatsApp need a GDPR handling rule.
+- Voice notes: how to capture safely (in-app recording vs WhatsApp) and whether AI transcribes/translates them - decide in Section 4 (quick-log).
 - For assessed write-up: describe non-loggers as an adoption barrier (time, habit, trust), not ability. [ISA TO WRITE]
 - Social media / wider marketing automation: future idea, not v1 (added to expansions.md).
 
