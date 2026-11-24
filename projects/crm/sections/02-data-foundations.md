@@ -25,6 +25,12 @@ Status: brainstorming (started 2026-11-24)
 15. Build/test data - A fake generated data (300 customers, 2 years of orders) / B pseudonymised real / C real - ★A - Isa: A
 16. Backups (Supabase free has no daily backups) - A weekly export to a private store / B upgrade Supabase / C SYSDEM is the backup - ★A - Isa: "private store till need something else" (A, revisit later)
 
+## Questions (batch 5) - 2026-11-24
+17. Price offered record - A product + £/kg + date + who / B + quantity + delivery terms / C free text - ★A - Isa: "product, price offered, who to, simple options for them to read and put in answers" (date auto-filled; simple pick-lists for salesmen)
+18. Lost/quiet reasons - A fixed list + Other / B fixed only / C free text - ★A - Isa: A
+19. Salesman-customer assignment - A Admin assigns in CRM / B from SYSDEM / C salesmen claim - ★A - Isa: A
+20. AI data access - A customer ID + purchase data only / B + business names / C everything - ★A - Isa: A
+
 ## Decisions
 ## Open questions
 ## Build notes
