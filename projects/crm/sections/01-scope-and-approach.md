@@ -1,5 +1,5 @@
 # 01 Scope and approach
-Status: brainstorming
+Status: decided (Isa to confirm summary) - 26 questions answered 2026-11-24
 
 ## Questions (batch 1)
 1. #1 problem v1 must solve - A visibility record / B win back quiet customers / C email automation - ★A - Isa: A (visibility record)
@@ -37,9 +37,32 @@ Status: brainstorming
 23. Training - A 10-min demo + 1-page guide / B video / C learn as they go - ★A - Isa: "ill have to individually show them how to use and probably chase em up a bit with phonecalls etc" (1-to-1 demos + follow-up calls)
 24. Online shop timing - A after trade v2 is stable / B straight after pilot / C not in this project - ★A - Isa: A
 
+## Questions (batch 7) - 2026-11-24
+25. Biggest risk - A salesmen don't log / B bad SYSDEM data / C time - ★A - Isa: "if they dont log theyre gonna get a call by me, if theyre too stupid to log i can make a little sheet for them to fill or ask them to send me a voice note on what theyve done so i fill for them" (= adoption risk; fallbacks: follow-up call, paper sheet, voice note to Isa)
+26. Cut first if short of time - A email automation / B AI insights / C dashboard - ★A - Isa: B "ai insights since they can miss nuance if reasons arent properly entered, email automations are more essential for me since i believe they can boost online shop sales + maybe we can automate social media i.e build on marketing automations as a whole"
+
 ## Notes from discussion
 - 2026-11-22: Isa works from many different PCs. Requirement: CRM must be cloud/web-based (any PC or phone, nothing installed). Dev work can also be cloud (Claude Code on the web + GitHub); VS Code at home PC is optional. Option B (custom on Supabase + Cloudflare, same as HACCP) now a strong candidate - still compare against off-the-shelf.
 
-## Decisions
+## Decisions (summary of Isa's answers - no new decisions)
+- Goal v1: a written record of every customer's dealings (visibility).
+- Approach: custom web app on Supabase + Cloudflare (cloud, any device). Still compare against HubSpot with a scored table + short trial using fake data.
+- Users v1: Admin, Isa, 1-2 pilot salesmen. Pilot 4 weeks, then v2. Isa supports it, Admin is backup.
+- Customers: all ~300 trade. Can mark "dead" (archived, restorable) or delete (Admin-only, confirm step, for GDPR erasure).
+- Data in: weekly SYSDEM export + salesman quick-log. Sage stays out; prices offered are new data.
+- Logins: named personal accounts, password + phone PIN. Salesmen use own phones (web app, offline queue, nothing kept on phone).
+- Visibility: salesmen see own customers; Admin/management see all. Prices offered: Admin + management + that salesman.
+- AI: Claude API, pseudonymised purchase data only. Retention: 6 years then review.
+- Timing/budget: prototype now, main build Month 5; free tiers first.
+- People: show drafts to 1-2 salesmen before building; train 1-to-1 + follow-up calls; fallbacks for non-loggers (paper sheet, voice note).
+- Success: baseline now + 3 measures (quiet customers won back, % calls logged, Admin chasing time).
+- Scope: online shop after trade v2. If short of time, cut AI insights first; email automation is a priority.
+- HACCP: paused, decide with tutor.
+
 ## Open questions
+- Q24 vs Q26 tension: email automation is the priority mainly for the ONLINE SHOP, but the online shop comes after trade v2. Trade customers are mostly phone/WhatsApp with few emails. Decide: (a) keep emails in v1 for trade customers with email + consent, or (b) move email automation to the online-shop phase.
+- Voice-note fallback: Isa typing logs for salesmen = extra workload + accuracy risk; voice notes with customer details on WhatsApp need a GDPR handling rule.
+- For assessed write-up: describe non-loggers as an adoption barrier (time, habit, trust), not ability. [ISA TO WRITE]
+- Social media / wider marketing automation: future idea, not v1 (added to expansions.md).
+
 ## Build notes

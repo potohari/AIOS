@@ -15,3 +15,4 @@ Dated record of decisions made together. Newest at the bottom.
 - 2026-11-22: Tutor and employer informed about the CRM project.
 - 2026-11-22: Isa said "always push" for the CRM screens branch too. First Stitch screen: Admin dashboard (Isa's choice).
 - 2026-11-22: CRM v1 screen drafts made in Stitch (dashboard desktop r2, customer page, salesman quick-log, email approvals). Dashboard phone + quiet list generated but not retrievable via MCP. Review notes in projects/crm/designs/v1/REVIEW.md.
+- 2026-11-24: CRM Section 1 (scope and approach) brainstorm done: 26 questions answered by Isa via interactive questions. Key: custom build on Supabase + Cloudflare, pilot Admin + 1-2 salesmen for 4 weeks, all trade customers, Claude API with pseudonymised data. Open: email automation in v1 vs online-shop phase.
