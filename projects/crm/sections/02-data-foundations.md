@@ -19,6 +19,12 @@ Status: brainstorming (started 2026-11-24)
 11. Marketing consent record - A status + date + source / B yes/no / C assume trade is fine - ★A - Isa: A
 12. Product names - A short clean list mapped from SYSDEM codes / B SYSDEM names as-is / C very detailed - ★A - Isa: A
 
+## Questions (batch 4) - 2026-11-24
+13. Weekly import - A upload page in CRM (preview before saving) / B Isa runs script / C email-in - ★A - Isa: A
+14. Bad rows - A import good rows, report bad ones / B stop whole import / C import everything - ★A - Isa: A
+15. Build/test data - A fake generated data (300 customers, 2 years of orders) / B pseudonymised real / C real - ★A - Isa: A
+16. Backups (Supabase free has no daily backups) - A weekly export to a private store / B upgrade Supabase / C SYSDEM is the backup - ★A - Isa: "private store till need something else" (A, revisit later)
+
 ## Decisions
 ## Open questions
 ## Build notes
