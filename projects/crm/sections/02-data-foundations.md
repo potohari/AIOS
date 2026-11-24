@@ -13,6 +13,12 @@ Status: brainstorming (started 2026-11-24)
 7. 'Gone quiet' rule - A twice usual gap / B fixed 21 days / C usual gap + seasonal adjust (Christmas, Eid) - ★A - Isa: C
 8. Baseline timing - A now, from 2-year export (+ Admin estimate of weekly chasing time) / B right before pilot / C after build - ★A - Isa: A
 
+## Questions (batch 3) - 2026-11-24
+9. Which seasons to expect - Christmas / Eid al-Adha / Ramadan-Eid al-Fitr / Summer (multi-select) - Isa: "every season has its own trends the data should tell u this already" -> learn seasonality from the 2-year history (compare each customer with the same period last year). Note: Eid/Ramadan move ~11 days earlier each year, so match by Islamic calendar, not calendar week.
+10. Contact data stored - A minimum (business name, main contact, phone, email, delivery day, consent) / B minimum + free notes / C everything - ★A - Isa: A
+11. Marketing consent record - A status + date + source / B yes/no / C assume trade is fine - ★A - Isa: A
+12. Product names - A short clean list mapped from SYSDEM codes / B SYSDEM names as-is / C very detailed - ★A - Isa: A
+
 ## Decisions
 ## Open questions
 ## Build notes
