@@ -25,6 +25,12 @@ Status: brainstorming
 15. HubSpot vs custom comparison - A scored table + short HubSpot trial with fake data / B table only / C ask tutor - ★A - Isa: A
 16. HACCP while CRM runs - A paused, decide with tutor / B finish as normal work / C drop - ★A - Isa: A
 
+## Questions (batch 5) - 2026-11-24
+17. AI provider - A Claude API (send pseudonymised purchase data only) / B OpenAI API / C no AI in v1 - ★A - Isa: A
+18. Data retention - A 6 years then review; dead customers archived then deleted / B forever / C ask Admin/CEO - ★A - Isa: A
+19. No signal when logging - A queue on phone, send when online, then clear / B must be online / C not a problem - ★A - Isa: A
+20. Involving salesmen before build - A show drafts to 1-2 salesmen + short chat, record concerns / B tell at launch / C Admin briefs - ★A - Isa: A
+
 ## Notes from discussion
 - 2026-11-22: Isa works from many different PCs. Requirement: CRM must be cloud/web-based (any PC or phone, nothing installed). Dev work can also be cloud (Claude Code on the web + GitHub); VS Code at home PC is optional. Option B (custom on Supabase + Cloudflare, same as HACCP) now a strong candidate - still compare against off-the-shelf.
 
