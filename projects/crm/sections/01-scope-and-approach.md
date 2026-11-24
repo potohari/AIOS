@@ -31,6 +31,12 @@ Status: brainstorming
 19. No signal when logging - A queue on phone, send when online, then clear / B must be online / C not a problem - ★A - Isa: A
 20. Involving salesmen before build - A show drafts to 1-2 salesmen + short chat, record concerns / B tell at launch / C Admin briefs - ★A - Isa: A
 
+## Questions (batch 6) - 2026-11-24
+21. Pilot length - A 4 weeks / B 2 weeks / C 8 weeks - ★A - Isa: A
+22. Support once live - A Isa, Admin as backup (weekly import + add users from a guide) / B Isa only / C outside developer later - ★A - Isa: A
+23. Training - A 10-min demo + 1-page guide / B video / C learn as they go - ★A - Isa: "ill have to individually show them how to use and probably chase em up a bit with phonecalls etc" (1-to-1 demos + follow-up calls)
+24. Online shop timing - A after trade v2 is stable / B straight after pilot / C not in this project - ★A - Isa: A
+
 ## Notes from discussion
 - 2026-11-22: Isa works from many different PCs. Requirement: CRM must be cloud/web-based (any PC or phone, nothing installed). Dev work can also be cloud (Claude Code on the web + GitHub); VS Code at home PC is optional. Option B (custom on Supabase + Cloudflare, same as HACCP) now a strong candidate - still compare against off-the-shelf.
 
