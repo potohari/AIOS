@@ -19,6 +19,12 @@ Status: brainstorming
 11. Who sees prices offered - A Admin + management + that salesman (Sage data stays out) / B all users / C Admin only - ★A - Isa: A
 12. How we know v1 worked - A baseline now + 3 measures (quiet customers won back, % calls logged, Admin chasing time) / B feedback only / C sales increase only - ★A - Isa: A
 
+## Questions (batch 4) - 2026-11-24
+13. Passcode type - A password + phone PIN / B password only / C PIN only - ★A - Isa: A
+14. Salesmen devices - A own phones (web app, nothing stored, lock/log-out rule) / B company phones / C unsure - ★A - Isa: A
+15. HubSpot vs custom comparison - A scored table + short HubSpot trial with fake data / B table only / C ask tutor - ★A - Isa: A
+16. HACCP while CRM runs - A paused, decide with tutor / B finish as normal work / C drop - ★A - Isa: A
+
 ## Notes from discussion
 - 2026-11-22: Isa works from many different PCs. Requirement: CRM must be cloud/web-based (any PC or phone, nothing installed). Dev work can also be cloud (Claude Code on the web + GitHub); VS Code at home PC is optional. Option B (custom on Supabase + Cloudflare, same as HACCP) now a strong candidate - still compare against off-the-shelf.
 
