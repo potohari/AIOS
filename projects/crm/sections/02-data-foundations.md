@@ -31,6 +31,12 @@ Status: brainstorming (started 2026-11-24)
 19. Salesman-customer assignment - A Admin assigns in CRM / B from SYSDEM / C salesmen claim - ★A - Isa: A
 20. AI data access - A customer ID + purchase data only / B + business names / C everything - ★A - Isa: A
 
+## Questions (batch 6) - 2026-11-24
+21. Suggest 'dead' - A suggest after 6 months, Admin confirms / B after 12 months / C never, by hand - ★A - Isa: "by hand, they can come back alive maybe but yeah by hand" (C; dead is reversible)
+22. Raw CSV files after import - A keep last 4 weeks then delete / B keep all / C delete straight away - ★A - Isa: A
+23. Who can upload imports - A Admin + Isa / B Isa only / C any manager - ★A - Isa: A
+24. Measuring Admin chasing time - A Admin logs one normal week / B estimate / C skip - ★A - Isa: A
+
 ## Decisions
 ## Open questions
 ## Build notes
